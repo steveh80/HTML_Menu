@@ -1,7 +1,9 @@
 {
-    "name": "steveh80/html_menu2",
+    "name": "pear/html_menu2",
+    "type": "library",
     "description": "A fork of pear html_menu which is optimized for php5",
+    "homepage": "https://github.com/steveh80/HTML_Menu",
     "require": {
-        "php": ">=5"
+        "php": ">=5.0.0"
     }
 }
