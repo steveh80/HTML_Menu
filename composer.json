@@ -1,0 +1,7 @@
+{
+    "name": "html_menu2",
+    "description": "A fork of pear html_menu which is optimized for php5",
+    "require": {
+        "php": ">=5"
+    }
+}
