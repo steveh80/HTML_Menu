@@ -7,8 +7,5 @@
     "homepage": "https://github.com/steveh80/HTML_Menu",
     "require": {
         "php": ">=5.0.0"
-    },
-   "autoload": {
-        "psr-0": { "html_menu2": "" }
     }
 }
